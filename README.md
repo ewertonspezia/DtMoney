@@ -4,7 +4,7 @@ Simple tool for financial control using ReactJS developed in the Rocketseat Igni
 
 ```bash
 # Clone this project
-$ git clone https://github.com/davi1985/dtmoney
+$ git clone https://github.com/ewertonspezia/DtMoney
 
 # Access
 $ cd dtmoney
