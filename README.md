@@ -12,6 +12,8 @@ Simple tool for financial control using ReactJS developed in the Rocketseat Igni
 <div align="center" id="top"> 
   <img src="./src/assets/img-system-2.png" alt="Dtmoney System 2" />
 </div>
+<br/>
+<br/>
 
 ```bash
 # Clone this project
